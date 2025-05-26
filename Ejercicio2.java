@@ -22,6 +22,6 @@ public class Ejercicio2 {
 
         
         System.out.println("\nEl promedio de los números ingresados es: " + promedio);
-
+         sc.close();  
     }
 }
